@@ -62,7 +62,7 @@ function timeElapse(dateString) {
 }
 
 // Call the function with the desired date
-timeElapse("2004-07-27");
+timeElapse("2004-07-23");
 
 // New Code
 window.onload = function() {
