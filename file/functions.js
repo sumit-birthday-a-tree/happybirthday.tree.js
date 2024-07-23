@@ -57,7 +57,7 @@ function timeElapse(dateString) {
 
     // Construct the message with the formatted date string
     var formattedDate = birthDate.toLocaleDateString("en-US", { year: 'numeric', month: 'long', day: 'numeric' });
-    var text = "THE WORLD HAS FOUND A TRULY LUCKY SOUL." + "-Since July 27, 200_? -India Standered Time ~" ;
+    var text = "THE WORLD HAS FOUND A TRULY LUCKY SOUL." + "-Since July 23, 200_? -India Standered Time ~" ;
     $("#message-box").html(text);
 }
 
