@@ -191,7 +191,7 @@
             ctx.font = "16px Verdana"; // Increased text size
             ctx.fillStyle = "#FFFFFF"; // Changed text color to white
             ctx.fillText("Click Me:) ", 40, -10); // Moved text to the right and up
-            ctx.fillText("Birthday Queen !", 38, 10); // Moved text to the right and up
+            ctx.fillText("🎂!", 38, 10); // Moved text to the right and up
             ctx.restore();
         },
         clear: function() {
